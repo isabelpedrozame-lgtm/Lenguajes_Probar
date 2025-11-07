@@ -7,7 +7,7 @@
 - *Comprenda la importancia de una arquitectura limpia y estructurada en proyectos de frontend.*
   ___
 
-- *Utilizaremos Postman, es una herramienta muy útil porque permite probar y verificar fácilmente las APIs con las que se conecta una aplicación.
+- *Utilizaremos Thunder, es una herramienta muy útil porque permite probar y verificar fácilmente las APIs con las que se conecta la aplicación.
 Con ella se pueden enviar solicitudes HTTP (GET, POST, PUT, DELETE), revisar las respuestas del servidor y detectar errores antes de integrarlo al frontend.
 Además, ayuda a documentar, automatizar y depurar las peticiones, facilitando el trabajo entre el backend y el frontend durante el desarrollo.*
 
