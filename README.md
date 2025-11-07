@@ -12,6 +12,30 @@ Con ella se pueden enviar solicitudes HTTP (GET, POST, PUT, DELETE), revisar las
 Además, ayuda a documentar, automatizar y depurar las peticiones, facilitando el trabajo entre el backend y el frontend durante el desarrollo.*
 
 ## Lo vamos a usar de la siguiente forma:
-<img width="763" height="319" alt="image" src="https://github.com/user-attachments/assets/38d46782-f53d-4f46-8ea1-81ae89d4af3f" />
-- *En casi todos lo casos el puerto es http://localhost:8080/api/vehiculos
-- 
+<img width="767" height="325" alt="image" src="https://github.com/user-attachments/assets/da1c2da2-2c69-4216-9196-924145f9fb24" />
+
+
+- *Con el metodo  http://localhost:8080/api/vehiculos podemos mostrar los vehiculos creados.
+
+## Metodo id 
+
+<img width="698" height="279" alt="image" src="https://github.com/user-attachments/assets/f2285191-01cb-41e7-b475-da0b7558a6f7" />
+
+
+
+- *Para obtener un solo vehiculo podemos utilizar http://localhost:8080/api/vehiculos/1.
+
+  
+## Actualizacion
+<img width="636" height="239" alt="image" src="https://github.com/user-attachments/assets/e4df2c9f-b5a7-452d-8c43-43a48f759afb" />
+
+- *Podemos ver la actualizacion update*
+
+## Eliminar
+<img width="640" height="254" alt="image" src="https://github.com/user-attachments/assets/9718e298-0d0d-4b27-9427-af649390c01a" />
+
+- *Se puede observar como se elimina, se cambia el put a delete.
+
+  
+
+  
