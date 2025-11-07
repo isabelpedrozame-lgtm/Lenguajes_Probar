@@ -15,7 +15,7 @@ Además, ayuda a documentar, automatizar y depurar las peticiones, facilitando e
 <img width="767" height="325" alt="image" src="https://github.com/user-attachments/assets/da1c2da2-2c69-4216-9196-924145f9fb24" />
 
 
-- *Con el metodo  http://localhost:8080/api/vehiculos podemos mostrar los vehiculos creados.
+- *Con el metodo  http://localhost:8080/api/vehiculos podemos mostrar los vehiculos creados.*
 
 ## Metodo id 
 
@@ -23,7 +23,7 @@ Además, ayuda a documentar, automatizar y depurar las peticiones, facilitando e
 
 
 
-- *Para obtener un solo vehiculo podemos utilizar http://localhost:8080/api/vehiculos/1.
+- *Para obtener un solo vehiculo podemos utilizar http://localhost:8080/api/vehiculos/1.*
 
   
 ## Actualizacion
@@ -34,8 +34,27 @@ Además, ayuda a documentar, automatizar y depurar las peticiones, facilitando e
 ## Eliminar
 <img width="640" height="254" alt="image" src="https://github.com/user-attachments/assets/9718e298-0d0d-4b27-9427-af649390c01a" />
 
-- *Se puede observar como se elimina, se cambia el put a delete.
+- *Se puede observar como se elimina, se cambia el put a delete.*
 
-  
+## probamos en moto 
+<img width="707" height="283" alt="image" src="https://github.com/user-attachments/assets/84e503b9-8f70-444f-9f7c-17a7de183fa5" />
+
+
+- *Con este metodo vamos a poder crear moto http://localhost:8080/api/motos.*
+
+## Moto con id
+<img width="654" height="234" alt="image" src="https://github.com/user-attachments/assets/3a281abb-4f5a-4da4-a7c2-1c3801358f1b" />
+
+- *Utilizamos el metodo get  y http://localhost:8080/api/motos/{id_moto} el id_moto se cambia por el id creado. En este caso es 1.*
+
+## Probamos eliminar 
+<img width="645" height="248" alt="image" src="https://github.com/user-attachments/assets/57a67e2a-dcab-482d-b997-10bbfd4de9cc" />
+
+- *Cambiando el metodo a delete podemos borrar y listo.*
+
+*El objetivo principal de esta estructura (controladores, servicios y pruebas con Thunder Client/Postman) es asegurar que la aplicación siga el Patrón REST y el Patrón de Diseño en Capas. Este enfoque asegura que el proyecto no solo cumpla con los requisitos funcionales básicos, sino que también sea escalable, fácil de mantener y esté diseñado con las mejores prácticas de desarrollo de APIs REST en Spring Boot.*
+
+
+
 
   
